@@ -10,5 +10,6 @@ if(sideMenu.style.display==="block"){
 sideMenu.style.display = "none"
 }else{
   sideMenu.style.display = "block"
+
 }
 }
